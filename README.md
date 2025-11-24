@@ -70,8 +70,8 @@ reddit_sentiment_network/
 
 ### Positive and Negative Sentiment Subgraphs
 <p float="left">
-  <img src="figures/positive_sentiment_subgraph.png" width="360" />
-  <img src="figures/negative_sentiment_subgraph.png" width="360" />
+  <img src="figures/positive_sentiment_subgraph.png" width="400" />
+  <img src="figures/negative_sentiment_subgraph.png" width="400" />
 </p>
 
 ---
