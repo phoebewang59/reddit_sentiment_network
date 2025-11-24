@@ -81,7 +81,7 @@ reddit_sentiment_network/
 
 The full academic write-up of this study can be found in:
 
-**`writeup/project_paper.pdf`**
+[project_paper.pdf](writeup/project_paper.pdf)
 
 It summarizes the motivation, theoretical background (including structural balance theory and sentiment diffusion), methods, and key findings.
 
