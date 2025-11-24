@@ -20,8 +20,10 @@ Using a cleaned dataset of Reddit submissions, comments, and replies, this proje
 
 ### Positive and Negative Sentiment Subgraphs
 
-<img src="figures/positive_sentiment_subgraph.png" width="500"/>
-<img src="figures/negative_sentiment_subgraph.png" width="500"/>
+<p float="left">
+  <img src="figures/positive_sentiment_subgraph.png" width="420"/>
+  <img src="figures/negative_sentiment_subgraph.png" width="420"/>
+</p>
 
 ---
 
@@ -42,9 +44,6 @@ It summarizes the motivation, theoretical background (including structural balan
 - igraph  
 - sentimentr  
 - ggplot2  
-
-## Tools
-**R:** tidyverse • igraph • sentimentr • ggplot2
 
 ---
 
