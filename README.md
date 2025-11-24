@@ -22,8 +22,8 @@ Using a cleaned dataset of Reddit submissions, comments, and replies, this proje
 ### Positive and Negative Sentiment Subgraphs
 
 <p float="left">
-  <img src="figures/positive_sentiment_subgraph.png" width="420"/>
-  <img src="figures/negative_sentiment_subgraph.png" width="420"/>
+  <img src="figures/positive_sentiment_subgraph.png" width="450"/>
+  <img src="figures/negative_sentiment_subgraph.png" width="450"/>
 </p>
 
 ---
