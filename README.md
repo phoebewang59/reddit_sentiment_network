@@ -3,10 +3,10 @@
 This project analyzes conversational dynamics within mental health–related Reddit communities using **sentiment analysis** and **social network analysis**. The goal is to understand how emotional tone flows through discussion threads, how supportive vs. unsupportive exchanges differ structurally, and whether **signed triads** reveal patterns of emotional tension or repair.
 
 ## Overview
-Using a cleaned dataset of Reddit submissions, comments, and replies, this project:
+Using a cleaned dataset of Reddit submissions, comments, and replies, this project uses **R** (tidyverse, igraph, sentimentr, ggplot2) to:
 
-- Computes sentiment scores for each message using `sentimentr` 
-- Constructs directed reply networks using `igraph`  
+- Computes sentiment scores for each message
+- Constructs directed reply networks
 - Identifies key structural patterns such as hubs, chains, and local clusters  
 - Examines **triad sentiment flow** (increasing, decreasing, mixed)  
 - Visualizes ego networks and sentiment diffusion patterns  
@@ -45,14 +45,12 @@ The full academic write-up of this study can be found in:
 It summarizes the motivation, theoretical background (including structural balance theory and sentiment diffusion), methods, and key findings.
 
 ---
+## Repository Contents
 
-## Tools
-
-**R**  
-- tidyverse  
-- igraph  
-- sentimentr  
-- ggplot2  
+- `scripts/` — R scripts for data cleaning, sentiment scoring, network construction, and triad analysis  
+- `data/` — Synthetic sample dataset demonstrating the data structure (real data cannot be shared)  
+- `figures/` — Exported network visualizations and sentiment diffusion plots  
+- `writeup/` — Full project paper with theoretical background and key findings  
 
 ---
 
