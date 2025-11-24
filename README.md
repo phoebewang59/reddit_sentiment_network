@@ -17,13 +17,13 @@ Using a cleaned dataset of Reddit submissions, comments, and replies, this proje
 ## Sample Figures
 
 ### Full Reply Network Colored by Sentiment
-<img src="figures/full_network_sentiment_centrality.png" width="500"/>
+<img src="figures/full_network_sentiment_centrality.png" width="450"/>
 
 ### Positive and Negative Sentiment Subgraphs
 
 <p float="left">
-  <img src="figures/positive_sentiment_subgraph.png" width="600"/>
-  <img src="figures/negative_sentiment_subgraph.png" width="600"/>
+  <img src="figures/positive_sentiment_subgraph.png" width="420"/>
+  <img src="figures/negative_sentiment_subgraph.png" width="420"/>
 </p>
 
 ---
