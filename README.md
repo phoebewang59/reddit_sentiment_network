@@ -16,6 +16,7 @@ Using a cleaned dataset of Reddit submissions, comments, and replies, this proje
 
 ## Sample Figures
 
+### Full Reply Network Colored by Sentiment
 <img src="figures/full_network_sentiment_centrality.png" width="500"/>
 
 ### Positive and Negative Sentiment Subgraphs
