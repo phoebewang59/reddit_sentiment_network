@@ -66,12 +66,12 @@ reddit_sentiment_network/
 
 ## Sample Figures
 
-<img src="figures/full_network_sentiment_centrality.png" width="500"/>
+<img src="figures/full_network_sentiment_centrality.png" width="550"/>
 
 ### Positive and Negative Sentiment Subgraphs
 <p float="left">
-  <img src="figures/positive_sentiment_subgraph.png" width="400" />
-  <img src="figures/negative_sentiment_subgraph.png" width="400" />
+  <img src="figures/positive_sentiment_subgraph.png"/>
+  <img src="figures/negative_sentiment_subgraph.png"/>
 </p>
 
 ---
