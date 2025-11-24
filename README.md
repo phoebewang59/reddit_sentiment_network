@@ -66,11 +66,14 @@ reddit_sentiment_network/
 
 ## Sample Figures
 
-### Sentiment Diffusion (Response – Source)
-![Sentiment Diffusion](figures/sentiment_diffusion_histogram.png)
-
 ### Full Reply Network Colored by Sentiment
-![Network Sentiment](figures/full_network_sentiment_centrality.png)
+<img src="figures/full_network_sentiment_centrality.png" width="450"/>
+
+### Positive and Negative Sentiment Subgraphs
+<p float="left">
+  <img src="figures/positive_sentiment_subgraph.jpeg" width="360" />
+  <img src="figures/negative_sentiment_subgraph.jpeg" width="360" />
+</p>
 
 ---
 
