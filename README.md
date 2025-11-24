@@ -12,8 +12,6 @@ Using a cleaned dataset of Reddit submissions, comments, and replies, this proje
 - Visualizes ego networks and sentiment diffusion patterns  
 - Explores relationships between engagement, centrality, and sentiment 
 
----
-
 ## Sample Figures
 
 <img src="figures/full_network_sentiment_centrality.png" width="500"/>
