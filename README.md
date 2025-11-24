@@ -5,7 +5,7 @@ This project analyzes conversational dynamics within mental health–related Red
 ## Overview
 Using a cleaned dataset of Reddit submissions, comments, and replies, this project:
 
-- Computes sentiment scores for each message using the `sentimentr` 
+- Computes sentiment scores for each message using `sentimentr` 
 - Constructs directed reply networks using `igraph`  
 - Identifies key structural patterns such as hubs, chains, and local clusters  
 - Examines **triad sentiment flow** (increasing, decreasing, mixed)  
@@ -19,10 +19,9 @@ Using a cleaned dataset of Reddit submissions, comments, and replies, this proje
 <img src="figures/full_network_sentiment_centrality.png" width="500"/>
 
 ### Positive and Negative Sentiment Subgraphs
-<p float="left">
-  <img src="figures/positive_sentiment_subgraph.png" width="550"/>
-  <img src="figures/negative_sentiment_subgraph.png" width="550"/>
-</p>
+
+<img src="figures/positive_sentiment_subgraph.png" width="500"/>
+<img src="figures/negative_sentiment_subgraph.png" width="500"/>
 
 ---
 
@@ -43,6 +42,9 @@ It summarizes the motivation, theoretical background (including structural balan
 - igraph  
 - sentimentr  
 - ggplot2  
+
+## Tools
+**R:** tidyverse • igraph • sentimentr • ggplot2
 
 ---
 
