@@ -1,0 +1,4 @@
+id,date,author,title,text,comment_on,type,score,upvote_ratio,url,permalink,user_flair,submission_flair
+abc123,03-12-2025 19:53:01,userA,Post about anxiety,I'm feeling really overwhelmed today.,,submission,12,0.95,https://reddit.com/r/test/abc123,/r/test/comments/abc123,Member,Discussion
+def456,03-12-2025 20:10:15,userB,,"Thanks for sharing, stay strong!",abc123,comment,5,,,/r/test/comments/abc123/comment1,,
+ghi789,04-12-2025 09:22:48,userC,,I relate to this so much.,abc123,comment,3,,,/r/test/comments/abc123/comment2,,
