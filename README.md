@@ -28,6 +28,14 @@ Using a cleaned dataset of Reddit submissions, comments, and replies, this proje
 
 ---
 
+## Key Findings
+- Positive sentiment formed cohesive, supportive clusters centered around the original poster.
+- Negative sentiment propagated in longer, chain-like reply patterns.
+- Mixed or unbalanced triads often shifted toward more positive exchanges, suggesting emotional repair.
+- Engagement volume was not a strong predictor of sentiment; structural context may play a larger role.
+
+---
+
 ## Project Paper
 
 The full academic write-up of this study can be found in:
