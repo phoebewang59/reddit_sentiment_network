@@ -2,6 +2,8 @@
 
 This project analyzes conversational dynamics within mental health–related Reddit communities using **sentiment analysis** and **social network analysis**. The goal is to understand how emotional tone flows through discussion threads, how supportive vs. unsupportive exchanges differ structurally, and whether **signed triads** reveal patterns of emotional tension or repair.
 
+All analysis is contained in the script: [reddit_sentiment_network_analysis.R](scripts/reddit_analysis.R)
+
 ## Overview
 Using a cleaned dataset of Reddit submissions, comments, and replies, this project uses **R** (tidyverse, igraph, sentimentr, ggplot2) to:
 
