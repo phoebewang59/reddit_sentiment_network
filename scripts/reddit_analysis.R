@@ -46,12 +46,11 @@ diameter(g, directed = TRUE)
 mean_distance(g)
 
 # Centrality Measures
-
 in_deg <- degree(g, mode = "in")
 scaled_size <- sqrt(in_deg) * 2
 
 
-# Visualization
+## Visualization
 
 # Color nodes by sentiment
 norm_sentiment <- rescale(V(g)$sentiment, to = c(0, 1), na.rm = TRUE)
@@ -291,7 +290,7 @@ avg_sentiment <- data %>%
 engagement_df <- as.data.frame(engagement)
 colnames(engagement_df) <- c("author", "engagement")
 
-# Merge the two by author
+# Merge by author
 merged_df <- merge(engagement_df, avg_sentiment, by = "author")
 
 cor.test(merged_df$engagement, merged_df$avg_sent, method = "pearson")
